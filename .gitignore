@@ -1,0 +1,4 @@
+venv_bot
+__pycache__/
+.idea/
+settings.py
